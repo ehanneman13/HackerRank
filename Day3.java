@@ -6,7 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution {
+public class Day3 {
 
     static void weirdCheck (int number) //Bringing in an int given by main, calling it number
     {
